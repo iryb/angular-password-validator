@@ -1,0 +1,21 @@
+.container {
+  max-width: max-content;
+  padding: 15px;
+}
+
+.label {
+  display: block;
+  padding-bottom: 5px;
+}
+
+.validation {
+  display: flex;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.validation-line {
+  width: 33.33%;
+  height: 15px;
+  background-color: #ccc;
+}
